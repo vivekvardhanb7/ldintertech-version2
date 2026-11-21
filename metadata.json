@@ -1,0 +1,6 @@
+{
+  "name": "KV Freight",
+  "description": "KV runs air, ocean, road and customs brokerage as one network under one accountable team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
